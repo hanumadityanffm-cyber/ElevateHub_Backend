@@ -1,0 +1,2 @@
+[build]
+cmd = "mvn -B -DskipTests -T 1C clean package"
